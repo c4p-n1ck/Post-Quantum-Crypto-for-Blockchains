@@ -7,6 +7,8 @@ poetry
 ```
 within `python`.org?
 ---
+> Hint use `rusty` Tiger `hash`.3r! for some h3x!!
+~
 As Marilyn Monroe once sang:
 > *Every baby needs a da-da-daddy*\
 > *To keep her worry free*\
